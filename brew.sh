@@ -12,7 +12,12 @@ fi
 sudo chown -R $(whoami):admin /usr/local
 
 # Utils
-brews=(git bash-completion hub heroku)
+brews=(
+git
+bash-completion
+hub
+heroku
+)
 
 # Languages
 brews+=(python node)
