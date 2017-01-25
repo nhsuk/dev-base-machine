@@ -17,6 +17,7 @@ git
 bash-completion
 hub
 heroku
+rancher-cli
 )
 
 # Languages
