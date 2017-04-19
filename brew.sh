@@ -23,6 +23,9 @@ rancher-cli
 # Languages
 brews+=(python node)
 
+# Node utils
+brews+=(yarn)
+
 # DBs
 brews+=(mongodb)
 
