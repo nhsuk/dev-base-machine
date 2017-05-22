@@ -11,7 +11,6 @@ casks+=(
 iterm2
 google-drive
 vmware-horizon-client
-docker
 )
 
 # Editors

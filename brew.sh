@@ -13,10 +13,12 @@ sudo chown -R $(whoami):admin /usr/local
 
 # Utils
 brews=(
-git
 bash-completion
-hub
+docker
+docker-compose
+git
 heroku
+hub
 rancher-cli
 )
 
