@@ -25,7 +25,7 @@ rerunning it.
 * [vim](http://www.vim.org/) - THE editor of choice
 * [jq](https://stedolan.github.io/jq/) - CLI JSON processor
 
-### casks
+### casks
 
 * [microsoft-azure-storage-explorer](http://storageexplorer.com/)
 * [robomongo](https://robomongo.org/) - MongoDB client
