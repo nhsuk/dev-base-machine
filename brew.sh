@@ -14,8 +14,6 @@ sudo chown -R $(whoami):admin /usr/local
 # Utils
 brews=(
 bash-completion
-docker
-docker-compose
 git
 heroku
 hub
