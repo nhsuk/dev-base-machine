@@ -12,6 +12,11 @@ This will:
 
 During the install of Homebrew you will be prompted for your password.
 
+Docker is an integral part of a development machine, however, it is not
+available to insall via brew.
+[Install Docker for Mac](https://docs.docker.com/docker-for-mac/install/)
+via the instructions on the Docker site.
+
 ## Suggested tools
 
 So as not to be totally perscriptive about what tools should be used, tools
@@ -25,7 +30,7 @@ rerunning it.
 * [vim](http://www.vim.org/) - THE editor of choice
 * [jq](https://stedolan.github.io/jq/) - CLI JSON processor
 
-### casks
+### casks
 
 * [microsoft-azure-storage-explorer](http://storageexplorer.com/)
 * [robomongo](https://robomongo.org/) - MongoDB client

@@ -13,10 +13,10 @@ sudo chown -R $(whoami):admin /usr/local
 
 # Utils
 brews=(
-git
 bash-completion
-hub
+git
 heroku
+hub
 rancher-cli
 )
 
